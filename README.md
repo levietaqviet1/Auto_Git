@@ -2,4 +2,4 @@
 
 1 loạt file bat hỗ trợ đẩy git nhanh chóng
 
-day tu dong
+day tu dong lan 2 co comit
